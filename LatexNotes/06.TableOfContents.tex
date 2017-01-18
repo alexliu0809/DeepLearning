@@ -1,0 +1,57 @@
+%Generating a table of contents can be done with a few simple commands. LaTeX will use the section headings to create the table of contents and there are commands to create a list of figures and a list of tables as well. I will give a small example code to create a table of contents first:
+
+\iffalse
+\documentclass{article}
+
+\begin{document}
+
+\tableofcontents %auto generated
+\newpage
+
+\section{Section}
+
+Dummy text
+
+\subsection{Subsection}
+
+Dummy text
+
+\end{document}
+\fi
+
+
+%List of figures and tables.
+%The generation of a list of figures and tables works the same way. I added a dummy figure and table and put the lists in the appendix of my document:
+\documentclass{article}
+\begin{document}
+\tableofcontents %auto generated
+\newpage
+
+\section{Section}
+
+Dummy text
+
+\subsection{Subsection}
+
+Dummy text
+\newpage
+
+\begin{figure}
+  \caption{Dummy figure}
+\end{figure}
+
+\begin{table}
+  \caption{Dummy table}
+\end{table}
+
+\begin{appendix}
+  \listoffigures
+  \listoftables
+\end{appendix}
+
+\end{document}
+
+%Summary:
+%Autogenerate a table of content using \tableofcontents
+%Create lists of your figures and tables with \listoffigures and \listoftables
+%Always compile twice to see the changes

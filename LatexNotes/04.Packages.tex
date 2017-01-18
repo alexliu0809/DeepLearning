@@ -1,0 +1,52 @@
+%LaTeX offers a lot of functions by default, but in some situations it can become in handy to use so called packages. To import a package in LaTeX, you simply add the \usepackage directive to the preamble of your document:
+
+%\documentclass{article}
+
+%\usepackage{PACKAGENAME}
+
+%\begin{document}
+
+
+%Installation of Packages.
+%When using Linux or Mac, most packages will already be installed by default and it is usually not necessary to install them. In case of Ubuntu installing texlive-full from the package manager would provide all packages available. The MiKTeX bundle in Windows, will download the package if you include it to your document.
+
+%Use of Packages.
+%There are countless packages, all for different purposes in my tutorials I will explain some of the most useful. To typeset math, LaTeX offers (among others) an environment called equation. Everything inside this environment will be printed in math mode, a special typesetting environment for math. LaTeX also takes care of equation numbers for us:
+
+%Normally a equation number is included:
+
+\iffalse
+\documentclass{article}
+
+\begin{document}
+
+\begin{equation}
+  f(x) = x^2
+\end{equation}
+
+\end{document}
+\fi
+% f = (x^2) (1)
+
+%Include a package.
+%The automatic numbering is a useful feature, but sometimes it's necessary to remove them for auxiliary calculations. LaTeX doesn't allow this by default, now we want to include a package that does:
+
+\documentclass{article}
+
+\usepackage{amsmath}
+
+\begin{document}
+
+\begin{equation*}
+  f(x) = x^2
+\end{equation*}
+
+\end{document}
+%Now we get the same output as before, only the equation number is removed: f(x)=x^2
+
+
+%Summary:
+%Packages add new functions to LaTeX
+%All packages must be included in the preamble
+%Packages add features such as support for pictures, links and bibliography
+

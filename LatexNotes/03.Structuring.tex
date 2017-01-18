@@ -1,0 +1,70 @@
+% We have created a very basic document in the previous lesson, but when writing a paper, it's necessary to structure the content into logic units. To achieve this, LaTeX offers us commands to generate section headings and number them automatically. The commands to create section headings are straightforward
+
+%\section{}
+%\subparagraph{}
+%\subsection{}
+%\subsubsection{}
+%\paragraph{}
+
+%An example:
+
+\documentclass{article}
+
+\title{Title of my document}
+\date{2013-09-01}
+\author{John Doe}
+
+\begin{document}
+
+\maketitle
+\pagenumbering{gobble}
+\newpage
+\pagenumbering{arabic}
+
+
+
+\section{Section} %What is inside this is the name of the section
+
+Hello World!
+
+\subsection{Subsection} %What is inside is the name of subsection
+
+Structuring a document is easy!
+
+
+
+
+\section{Section} %Another section. It will be section 2.
+
+Hello World!
+
+\subsection{Subsection} % Another subsection under section2, 2.1
+
+Structuring a document is easy!
+
+\subsubsection{Subsubsection} %under 2.1, 2.1.1
+
+More text. %Difference between para and simple text is indentation. To remove add \noindent
+
+{\setlength{\parindent}{0cm} %this thing set the indent of a special section to a val.
+
+\paragraph{fsfs} %Note here how to add a paragraph
+
+Some more text.
+
+\subparagraph{Subparagraph} %You can have a name for a paragraph or not.
+Even more text.
+}
+
+
+\section{Another section} %Section 3
+
+\end{document}
+
+%It's very easy to structure documents into sections using LaTeX. This feature also exists in Word, but most people don't use it properly. In LaTeX it is very effortless to have consistent formatting throughout your paper. In the next lesson I will give a short introduction to packages and show some basic math typesetting. This is where LaTeX really excels.
+
+%Summary
+%LaTeX uses the commands \section, \subsection and \subsubsection to define sections in your document
+%The sections will have successive numbers and appear in the table of contents
+%Paragraphs are not numbered and thus don't appear in the table of contents
+

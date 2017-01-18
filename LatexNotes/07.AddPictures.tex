@@ -1,0 +1,46 @@
+%From time to time, it's necessary to add pictures to your documents. Using LaTeX all pictures will be indexed automatically and tagged with successive numbers when using the figure environment and the graphicx package.
+
+\documentclass{article}
+
+\usepackage{graphicx}
+
+\begin{document}
+
+\begin{figure}[h!]
+  %\includegraphics[width=\linewidth]{boat.jpg} %cannot be found online
+  \caption{A boat.}
+  \label{fig:boat1}
+\end{figure}
+
+Figure \ref{fig:boat1} shows a boat.
+
+\end{document}
+
+%The figure environment takes care of the numbering and positioning of the image within the document. In order to include a figure, you must use the \includegraphics command. It takes the image width as an option in brackets and the path to your image file. As you can see, I put \linewidth into the brackets, which means the picture will be scaled to fit the width of the document. As a result smaller pictures are upscaled and larger pictures downscaled respectively. 
+%As I mentioned before the brackets contain the path to the image. In this case the image is stored in the same directory as my .tex file, so I simply put boat.jpg here to include it. 
+%For large documents, you probably want to store image files in a different folder, say we created a folder images, then we would simply write images/boat.jpg into the braces. 
+%In the next command we set a \caption, which is the text shown below the image and a \label which is invisible, but useful if we want to refer to our figure in our document. 
+%You can use the \ref command to refer to the figure (marked by label) in your text and it will then be replaced by the correct number. 
+%LaTeX is smart enough to retrieve the correct numbers for all your images automatically. Note that you will need to include the graphicx package in order to use this code.
+
+
+%Force the picture to a certain position - Set the float:
+%At some point, you will notice that the figure doesn't necessarily show up in the exact place as you put your code in the .tex file. If your document contains a lot of text, it's possible that LaTeX will put the picture on the next page, or any other page where it finds sufficient space. To prevent this behavior, it's necessary to set the float value for the figure environment.
+
+% \begin{figure}[h!]
+%Setting the float by adding [h!] behind the figure environment \begin tag will force the figure to be shown at the location in the document. Possible values are:
+
+%h (here) - same location
+%t (top) - top of page
+%b (bottom) - bottom of page
+%p (page) - on an extra page
+%! (override) - will force the specified location
+
+%However, I have only used the [h!] option so far. The float package (\usepackage{float}) allows to set the option to [H], which is even stricter than [h!].
+
+%Summary:
+%Use the graphicx package and figure environment to embed pictures
+%Pictures will be numbered automatically
+%Change the width of your image by using \includegraphics[width=\linewidth]{}
+%Refer to pictures in your document by setting a \label and using the \ref tag
+%Set the position of your image by adding a float option such as [h!]
