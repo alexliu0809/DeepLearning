@@ -1,5 +1,5 @@
 # TTIC31230DeepLearning
-Taught by Prof. David McAllester
+Taught by Prof. David McAllester. Special thanks to PhD student Mingda Chen at TTIC for helping me a lot on assignments.
 ## TTIC31230
 Notes and Homework Submissions will be uploaded here. Feedbacks will also be uploaded when available.
 ## CS231 and CS 229
