@@ -1,0 +1,540 @@
+SGD LearningRate: 0.055471 Epoch: 0 BestLoss: 2.92385 Perplexity: 17.91749
+
+
+RMSProp LearningRate: 0.055471 Decay_Rate: 0.9780 Epoch: 0 BestLoss: 2.42888 Perplexity: 10.98917
+
+
+Adam LearningRate: 0.055471 Beta1: 0.9925 Beta2: 0.9971 Epoch: 0 BestLoss: 2.24580 Perplexity: 9.20958
+
+
+SGD LearningRate: 0.002081 Epoch: 0 BestLoss: 3.89557 Perplexity: 47.57403
+
+
+RMSProp LearningRate: 0.002081 Decay_Rate: 0.9488 Epoch: 0 BestLoss: 3.78088 Perplexity: 42.40813
+
+
+Adam LearningRate: 0.002081 Beta1: 0.9683 Beta2: 0.8706 Epoch: 0 BestLoss: 3.06763 Perplexity: 20.59791
+
+
+SGD LearningRate: 0.004822 Epoch: 0 BestLoss: 3.82395 Perplexity: 44.26551
+
+
+RMSProp LearningRate: 0.004822 Decay_Rate: 0.9872 Epoch: 0 BestLoss: 3.12628 Perplexity: 21.86594
+
+
+Adam LearningRate: 0.004822 Beta1: 0.9869 Beta2: 0.9894 Epoch: 0 BestLoss: 2.96517 Perplexity: 18.68094
+
+
+SGD LearningRate: 0.361951 Epoch: 0 BestLoss: 2.22999 Perplexity: 9.02799
+
+
+RMSProp LearningRate: 0.361951 Decay_Rate: 0.8598 Epoch: 0 BestLoss: 1.88801 Perplexity: 6.43130
+
+
+Adam LearningRate: 0.361951 Beta1: 0.9981 Beta2: 0.8760 Epoch: 0 BestLoss: 2.23136 Perplexity: 9.05867
+
+
+SGD LearningRate: 0.004758 Epoch: 0 BestLoss: 3.83480 Perplexity: 44.76245
+
+
+RMSProp LearningRate: 0.004758 Decay_Rate: 0.9718 Epoch: 0 BestLoss: 3.09956 Perplexity: 21.26629
+
+
+Adam LearningRate: 0.004758 Beta1: 0.9368 Beta2: 0.8847 Epoch: 0 BestLoss: 2.94165 Perplexity: 18.24212
+
+
+SGD LearningRate: 0.001974 Epoch: 0 BestLoss: 3.90575 Perplexity: 48.05050
+
+
+RMSProp LearningRate: 0.001974 Decay_Rate: 0.9847 Epoch: 0 BestLoss: 3.77981 Perplexity: 42.34142
+
+
+Adam LearningRate: 0.001974 Beta1: 0.9989 Beta2: 0.9992 Epoch: 0 BestLoss: 3.77453 Perplexity: 42.12317
+
+
+SGD LearningRate: 0.173670 Epoch: 0 BestLoss: 2.45104 Perplexity: 11.25405
+
+
+RMSProp LearningRate: 0.173670 Decay_Rate: 0.9606 Epoch: 0 BestLoss: 2.09456 Perplexity: 7.87293
+
+
+Adam LearningRate: 0.173670 Beta1: 0.9990 Beta2: 0.9854 Epoch: 0 BestLoss: 2.53517 Perplexity: 12.25755
+
+
+SGD LearningRate: 2.397307 Epoch: 0 BestLoss: 1.67205 Perplexity: 5.19139
+
+
+RMSProp LearningRate: 2.397307 Decay_Rate: 0.9503 Epoch: 0 BestLoss: 1.74214 Perplexity: 5.62090
+
+
+Adam LearningRate: 2.397307 Beta1: 0.9940 Beta2: 0.9922 Epoch: 0 BestLoss: 1.60820 Perplexity: 4.86524
+
+
+SGD LearningRate: 0.000794 Epoch: 0 BestLoss: 3.91873 Perplexity: 48.67450
+
+
+RMSProp LearningRate: 0.000794 Decay_Rate: 0.9500 Epoch: 0 BestLoss: 3.88869 Perplexity: 47.23689
+
+
+Adam LearningRate: 0.000794 Beta1: 0.9909 Beta2: 0.9996 Epoch: 0 BestLoss: 3.78681 Perplexity: 42.65301
+
+
+SGD LearningRate: 0.002037 Epoch: 0 BestLoss: 3.89079 Perplexity: 47.32508
+
+
+RMSProp LearningRate: 0.002037 Decay_Rate: 0.9663 Epoch: 0 BestLoss: 3.73794 Perplexity: 40.60841
+
+
+Adam LearningRate: 0.002037 Beta1: 0.9886 Beta2: 0.9756 Epoch: 0 BestLoss: 3.12536 Perplexity: 21.89126
+
+
+SGD LearningRate: 0.022673 Epoch: 0 BestLoss: 3.02070 Perplexity: 19.66709
+
+
+RMSProp LearningRate: 0.022673 Decay_Rate: 0.9247 Epoch: 0 BestLoss: 2.85812 Perplexity: 16.78877
+
+
+Adam LearningRate: 0.022673 Beta1: 0.9938 Beta2: 0.9872 Epoch: 0 BestLoss: 2.68218 Perplexity: 14.13309
+
+
+SGD LearningRate: 0.420464 Epoch: 0 BestLoss: 2.15506 Perplexity: 8.37179
+
+
+RMSProp LearningRate: 0.420464 Decay_Rate: 0.9702 Epoch: 0 BestLoss: 1.83383 Perplexity: 6.09816
+
+
+Adam LearningRate: 0.420464 Beta1: 0.9376 Beta2: 0.9999 Epoch: 0 BestLoss: 1.50745 Perplexity: 4.39088
+
+
+SGD LearningRate: 0.706801 Epoch: 0 BestLoss: 1.99926 Perplexity: 7.17346
+
+
+RMSProp LearningRate: 0.706801 Decay_Rate: 0.9803 Epoch: 0 BestLoss: 1.69871 Perplexity: 5.33629
+
+
+Adam LearningRate: 0.706801 Beta1: 0.9984 Beta2: 0.9975 Epoch: 0 BestLoss: 2.16535 Perplexity: 8.47425
+
+
+SGD LearningRate: 0.002604 Epoch: 0 BestLoss: 3.88114 Perplexity: 46.88253
+
+
+RMSProp LearningRate: 0.002604 Decay_Rate: 0.9254 Epoch: 0 BestLoss: 3.70776 Perplexity: 39.38573
+
+
+Adam LearningRate: 0.002604 Beta1: 0.9893 Beta2: 0.9991 Epoch: 0 BestLoss: 3.05273 Perplexity: 20.32085
+
+
+SGD LearningRate: 0.035958 Epoch: 0 BestLoss: 2.98396 Perplexity: 19.01007
+
+
+RMSProp LearningRate: 0.035958 Decay_Rate: 0.8745 Epoch: 0 BestLoss: 2.66938 Perplexity: 13.91325
+
+
+Adam LearningRate: 0.035958 Beta1: 0.9597 Beta2: 0.9998 Epoch: 0 BestLoss: 2.19121 Perplexity: 8.67317
+
+
+SGD LearningRate: 0.000184 Epoch: 0 BestLoss: 3.91832 Perplexity: 48.66535
+
+
+RMSProp LearningRate: 0.000184 Decay_Rate: 0.8694 Epoch: 0 BestLoss: 3.91720 Perplexity: 48.60789
+
+
+Adam LearningRate: 0.000184 Beta1: 0.9899 Beta2: 0.9999 Epoch: 0 BestLoss: 3.91032 Perplexity: 48.27668
+
+
+SGD LearningRate: 0.715987 Epoch: 0 BestLoss: 2.05407 Perplexity: 7.63342
+
+
+RMSProp LearningRate: 0.715987 Decay_Rate: 0.8860 Epoch: 0 BestLoss: 1.67673 Perplexity: 5.21052
+
+
+Adam LearningRate: 0.715987 Beta1: 0.8494 Beta2: 0.9954 Epoch: 0 BestLoss: 1.41203 Perplexity: 3.98631
+
+
+SGD LearningRate: 0.045034 Epoch: 0 BestLoss: 2.95028 Perplexity: 18.37923
+
+
+RMSProp LearningRate: 0.045034 Decay_Rate: 0.9552 Epoch: 0 BestLoss: 2.56417 Perplexity: 12.53851
+
+
+Adam LearningRate: 0.045034 Beta1: 0.9655 Beta2: 0.9984 Epoch: 0 BestLoss: 2.13563 Perplexity: 8.21676
+
+
+SGD LearningRate: 2.431186 Epoch: 0 BestLoss: 1.67395 Perplexity: 5.20965
+
+
+RMSProp LearningRate: 2.431186 Decay_Rate: 0.9874 Epoch: 0 BestLoss: 1.41199 Perplexity: 4.00830
+
+
+Adam LearningRate: 2.431186 Beta1: 0.9858 Beta2: 0.9762 Epoch: 0 BestLoss: 1.42190 Perplexity: 4.03214
+
+
+SGD LearningRate: 0.853695 Epoch: 0 BestLoss: 1.98357 Perplexity: 7.09542
+
+
+RMSProp LearningRate: 0.853695 Decay_Rate: 0.9759 Epoch: 0 BestLoss: 1.61771 Perplexity: 4.91488
+
+
+Adam LearningRate: 0.853695 Beta1: 0.9920 Beta2: 0.9956 Epoch: 0 BestLoss: 1.69615 Perplexity: 5.32395
+
+
+SGD LearningRate: 0.032163 Epoch: 0 BestLoss: 2.99860 Perplexity: 19.27076
+
+
+RMSProp LearningRate: 0.032163 Decay_Rate: 0.8917 Epoch: 0 BestLoss: 2.76600 Perplexity: 15.34713
+
+
+Adam LearningRate: 0.032163 Beta1: 0.9369 Beta2: 0.9775 Epoch: 0 BestLoss: 2.21188 Perplexity: 8.85347
+
+
+SGD LearningRate: 0.012402 Epoch: 0 BestLoss: 3.17093 Perplexity: 22.86257
+
+
+RMSProp LearningRate: 0.012402 Decay_Rate: 0.9769 Epoch: 0 BestLoss: 2.97738 Perplexity: 18.87115
+
+
+Adam LearningRate: 0.012402 Beta1: 0.9989 Beta2: 0.9985 Epoch: 0 BestLoss: 3.19445 Perplexity: 23.46093
+
+
+SGD LearningRate: 0.015146 Epoch: 0 BestLoss: 3.11152 Perplexity: 21.51424
+
+
+RMSProp LearningRate: 0.015146 Decay_Rate: 0.9847 Epoch: 0 BestLoss: 2.95043 Perplexity: 18.39073
+
+
+Adam LearningRate: 0.015146 Beta1: 0.9680 Beta2: 0.9999 Epoch: 0 BestLoss: 2.56906 Perplexity: 12.61214
+
+
+SGD LearningRate: 3.374496 Epoch: 0 BestLoss: 1.55273 Perplexity: 4.59472
+
+
+RMSProp LearningRate: 3.374496 Decay_Rate: 0.9599 Epoch: 0 BestLoss: 1.52083 Perplexity: 4.45041
+
+
+Adam LearningRate: 3.374496 Beta1: 0.9858 Beta2: 0.9928 Epoch: 0 BestLoss: 1.40536 Perplexity: 3.96901
+
+
+SGD LearningRate: 6.673589 Epoch: 0 BestLoss: 1.69143 Perplexity: 5.29994
+
+
+RMSProp LearningRate: 6.673589 Decay_Rate: 0.9896 Epoch: 0 BestLoss: nan Perplexity: nan
+
+
+Adam LearningRate: 6.673589 Beta1: 0.9958 Beta2: 0.9904 Epoch: 0 BestLoss: 1.62797 Perplexity: 4.96629
+
+
+SGD LearningRate: 0.216078 Epoch: 0 BestLoss: 2.35696 Perplexity: 10.24847
+
+
+RMSProp LearningRate: 0.216078 Decay_Rate: 0.9628 Epoch: 0 BestLoss: 2.03903 Perplexity: 7.49708
+
+
+Adam LearningRate: 0.216078 Beta1: 0.9978 Beta2: 0.9705 Epoch: 0 BestLoss: 2.30041 Perplexity: 9.72459
+
+
+SGD LearningRate: 0.134068 Epoch: 0 BestLoss: 2.54356 Perplexity: 12.29446
+
+
+RMSProp LearningRate: 0.134068 Decay_Rate: 0.9584 Epoch: 0 BestLoss: 2.15359 Perplexity: 8.37315
+
+
+Adam LearningRate: 0.134068 Beta1: 0.8647 Beta2: 0.9992 Epoch: 0 BestLoss: 1.76991 Perplexity: 5.71976
+
+
+SGD LearningRate: 5.376953 Epoch: 0 BestLoss: 1.72999 Perplexity: 5.48394
+
+
+RMSProp LearningRate: 5.376953 Decay_Rate: 0.9637 Epoch: 0 BestLoss: nan Perplexity: nan
+
+
+Adam LearningRate: 5.376953 Beta1: 0.9981 Beta2: 0.9962 Epoch: 0 BestLoss: 1.77028 Perplexity: 5.70198
+
+
+SGD LearningRate: 0.000212 Epoch: 0 BestLoss: 3.92810 Perplexity: 49.13599
+
+
+RMSProp LearningRate: 0.000212 Decay_Rate: 0.9674 Epoch: 0 BestLoss: 3.92370 Perplexity: 48.92095
+
+
+Adam LearningRate: 0.000212 Beta1: 0.9899 Beta2: 0.9996 Epoch: 0 BestLoss: 3.89518 Perplexity: 47.54510
+
+
+SGD LearningRate: 0.287383 Epoch: 0 BestLoss: 2.26763 Perplexity: 9.36782
+
+
+RMSProp LearningRate: 0.287383 Decay_Rate: 0.9890 Epoch: 0 BestLoss: 1.94072 Perplexity: 6.76302
+
+
+Adam LearningRate: 0.287383 Beta1: 0.9857 Beta2: 0.9869 Epoch: 0 BestLoss: 1.80590 Perplexity: 5.93152
+
+
+SGD LearningRate: 0.002580 Epoch: 0 BestLoss: 3.89151 Perplexity: 47.37694
+
+
+RMSProp LearningRate: 0.002580 Decay_Rate: 0.9858 Epoch: 0 BestLoss: 3.62153 Perplexity: 36.10326
+
+
+Adam LearningRate: 0.002580 Beta1: 0.9983 Beta2: 0.9721 Epoch: 0 BestLoss: 3.61736 Perplexity: 35.97616
+
+
+SGD LearningRate: 0.008612 Epoch: 0 BestLoss: 3.65436 Perplexity: 37.31592
+
+
+RMSProp LearningRate: 0.008612 Decay_Rate: 0.9559 Epoch: 0 BestLoss: 3.00919 Perplexity: 19.45876
+
+
+Adam LearningRate: 0.008612 Beta1: 0.9976 Beta2: 0.9681 Epoch: 0 BestLoss: 3.01313 Perplexity: 19.59144
+
+
+SGD LearningRate: 0.002321 Epoch: 0 BestLoss: 3.89433 Perplexity: 47.50771
+
+
+RMSProp LearningRate: 0.002321 Decay_Rate: 0.9891 Epoch: 0 BestLoss: 3.64808 Perplexity: 37.08786
+
+
+Adam LearningRate: 0.002321 Beta1: 0.9924 Beta2: 0.9989 Epoch: 0 BestLoss: 3.15398 Perplexity: 22.51064
+
+
+SGD LearningRate: 3.140131 Epoch: 0 BestLoss: 1.59157 Perplexity: 4.79826
+
+
+RMSProp LearningRate: 3.140131 Decay_Rate: 0.9896 Epoch: 0 BestLoss: 1.64467 Perplexity: 5.05374
+
+
+Adam LearningRate: 3.140131 Beta1: 0.9161 Beta2: 0.9536 Epoch: 0 BestLoss: 1.41061 Perplexity: 3.97410
+
+
+SGD LearningRate: 0.244050 Epoch: 0 BestLoss: 2.34020 Perplexity: 10.07264
+
+
+RMSProp LearningRate: 0.244050 Decay_Rate: 0.9862 Epoch: 0 BestLoss: 1.99121 Perplexity: 7.12133
+
+
+Adam LearningRate: 0.244050 Beta1: 0.9812 Beta2: 0.9709 Epoch: 0 BestLoss: 1.80779 Perplexity: 5.92486
+
+
+SGD LearningRate: 0.120126 Epoch: 0 BestLoss: 2.65960 Perplexity: 13.78822
+
+
+RMSProp LearningRate: 0.120126 Decay_Rate: 0.9637 Epoch: 0 BestLoss: 2.21639 Perplexity: 8.90167
+
+
+Adam LearningRate: 0.120126 Beta1: 0.9775 Beta2: 0.9971 Epoch: 0 BestLoss: 1.93057 Perplexity: 6.71351
+
+
+SGD LearningRate: 2.612294 Epoch: 0 BestLoss: 1.68639 Perplexity: 5.28942
+
+
+RMSProp LearningRate: 2.612294 Decay_Rate: 0.9783 Epoch: 0 BestLoss: 1.72781 Perplexity: 5.47591
+
+
+Adam LearningRate: 2.612294 Beta1: 0.8416 Beta2: 0.9829 Epoch: 0 BestLoss: nan Perplexity: nan
+
+
+SGD LearningRate: 3.270988 Epoch: 0 BestLoss: 1.56975 Perplexity: 4.67712
+
+
+RMSProp LearningRate: 3.270988 Decay_Rate: 0.9545 Epoch: 0 BestLoss: 1.38462 Perplexity: 3.86848
+
+
+Adam LearningRate: 3.270988 Beta1: 0.9091 Beta2: 0.9973 Epoch: 0 BestLoss: 1.45795 Perplexity: 4.17536
+
+
+SGD LearningRate: 3.491196 Epoch: 0 BestLoss: 1.54741 Perplexity: 4.57587
+
+
+RMSProp LearningRate: 3.491196 Decay_Rate: 0.9730 Epoch: 0 BestLoss: 1.40631 Perplexity: 3.96714
+
+
+Adam LearningRate: 3.491196 Beta1: 0.9981 Beta2: 0.9983 Epoch: 0 BestLoss: 1.82793 Perplexity: 6.06043
+
+
+SGD LearningRate: 1.255297 Epoch: 0 BestLoss: 1.83241 Perplexity: 6.09454
+
+
+RMSProp LearningRate: 1.255297 Decay_Rate: 0.9457 Epoch: 0 BestLoss: 1.55407 Perplexity: 4.59696
+
+
+Adam LearningRate: 1.255297 Beta1: 0.9974 Beta2: 0.9670 Epoch: 0 BestLoss: 1.93199 Perplexity: 6.72559
+
+
+SGD LearningRate: 1.357894 Epoch: 0 BestLoss: 1.88634 Perplexity: 6.47915
+
+
+RMSProp LearningRate: 1.357894 Decay_Rate: 0.9458 Epoch: 0 BestLoss: 1.58482 Perplexity: 4.75097
+
+
+Adam LearningRate: 1.357894 Beta1: 0.9877 Beta2: 0.9847 Epoch: 0 BestLoss: 1.55051 Perplexity: 4.58673
+
+
+SGD LearningRate: 1.295285 Epoch: 0 BestLoss: 1.84754 Perplexity: 6.18029
+
+
+RMSProp LearningRate: 1.295285 Decay_Rate: 0.9111 Epoch: 0 BestLoss: 1.55418 Perplexity: 4.64367
+
+
+Adam LearningRate: 1.295285 Beta1: 0.9949 Beta2: 0.9995 Epoch: 0 BestLoss: 1.74589 Perplexity: 5.58497
+
+
+SGD LearningRate: 4.491028 Epoch: 0 BestLoss: 1.49977 Perplexity: 4.35013
+
+
+RMSProp LearningRate: 4.491028 Decay_Rate: 0.8988 Epoch: 0 BestLoss: 11.91668 Perplexity: 850035369999815040.00000
+
+
+Adam LearningRate: 4.491028 Beta1: 0.9464 Beta2: 0.9996 Epoch: 0 BestLoss: nan Perplexity: nan
+
+
+SGD LearningRate: 1.744491 Epoch: 0 BestLoss: 1.77074 Perplexity: 5.75193
+
+
+RMSProp LearningRate: 1.744491 Decay_Rate: 0.9787 Epoch: 0 BestLoss: 1.46808 Perplexity: 4.21107
+
+
+Adam LearningRate: 1.744491 Beta1: 0.9989 Beta2: 0.8477 Epoch: 0 BestLoss: 2.07722 Perplexity: 7.79266
+
+
+SGD LearningRate: 2.050761 Epoch: 0 BestLoss: 1.69408 Perplexity: 5.29982
+
+
+RMSProp LearningRate: 2.050761 Decay_Rate: 0.9095 Epoch: 0 BestLoss: 1.92848 Perplexity: 6.74237
+
+
+Adam LearningRate: 2.050761 Beta1: 0.9592 Beta2: 0.9933 Epoch: 0 BestLoss: 1.36006 Perplexity: 3.79254
+
+
+SGD LearningRate: 4.241596 Epoch: 0 BestLoss: 1.50352 Perplexity: 4.37229
+
+
+RMSProp LearningRate: 4.241596 Decay_Rate: 0.9332 Epoch: 0 BestLoss: 1.83843 Perplexity: 6.29402
+
+
+Adam LearningRate: 4.241596 Beta1: 0.9341 Beta2: 0.9997 Epoch: 0 BestLoss: 1.47282 Perplexity: 4.23738
+
+
+SGD LearningRate: 8.086726 Epoch: 0 BestLoss: 1.42396 Perplexity: 4.05372
+
+
+RMSProp LearningRate: 8.086726 Decay_Rate: 0.9205 Epoch: 0 BestLoss: nan Perplexity: nan
+
+
+Adam LearningRate: 8.086726 Beta1: 0.9697 Beta2: 0.9996 Epoch: 0 BestLoss: 1.74984 Perplexity: 5.60943
+
+
+SGD LearningRate: 1.544233 Epoch: 0 BestLoss: 1.78239 Perplexity: 5.78726
+
+
+RMSProp LearningRate: 1.544233 Decay_Rate: 0.9354 Epoch: 0 BestLoss: 1.47608 Perplexity: 4.25300
+
+
+Adam LearningRate: 1.544233 Beta1: 0.8705 Beta2: 0.9466 Epoch: 0 BestLoss: 1.33822 Perplexity: 3.69995
+
+
+SGD LearningRate: 2.728946 Epoch: 0 BestLoss: 1.61420 Perplexity: 4.89631
+
+
+RMSProp LearningRate: 2.728946 Decay_Rate: 0.8525 Epoch: 0 BestLoss: 1.41586 Perplexity: 4.01392
+
+
+Adam LearningRate: 2.728946 Beta1: 0.9902 Beta2: 0.9936 Epoch: 0 BestLoss: nan Perplexity: nan
+
+
+SGD LearningRate: 1.867834 Epoch: 0 BestLoss: 1.79932 Perplexity: 5.91390
+
+
+RMSProp LearningRate: 1.867834 Decay_Rate: 0.9699 Epoch: 0 BestLoss: 1.54027 Perplexity: 4.54471
+
+
+Adam LearningRate: 1.867834 Beta1: 0.9339 Beta2: 0.8926 Epoch: 0 BestLoss: 1.34093 Perplexity: 3.71726
+
+
+SGD LearningRate: 5.950876 Epoch: 0 BestLoss: 1.46753 Perplexity: 4.21369
+
+
+RMSProp LearningRate: 5.950876 Decay_Rate: 0.9235 Epoch: 0 BestLoss: nan Perplexity: nan
+
+
+Adam LearningRate: 5.950876 Beta1: 0.9416 Beta2: 0.9099 Epoch: 0 BestLoss: 1.32289 Perplexity: 3.65147
+
+
+SGD LearningRate: 9.523778 Epoch: 0 BestLoss: 1.44933 Perplexity: 4.13945
+
+
+RMSProp LearningRate: 9.523778 Decay_Rate: 0.8841 Epoch: 0 BestLoss: nan Perplexity: nan
+
+
+Adam LearningRate: 9.523778 Beta1: 0.9749 Beta2: 0.9988 Epoch: 0 BestLoss: 1.44456 Perplexity: 4.11786
+
+
+SGD LearningRate: 7.691816 Epoch: 0 BestLoss: 23.78023 Perplexity: 13729957764473963937792.00000
+
+
+RMSProp LearningRate: 7.691816 Decay_Rate: 0.9715 Epoch: 0 BestLoss: nan Perplexity: nan
+
+
+Adam LearningRate: 7.691816 Beta1: 0.9950 Beta2: 0.9904 Epoch: 0 BestLoss: 1.58186 Perplexity: 4.74396
+
+
+SGD LearningRate: 1.608600 Epoch: 0 BestLoss: 1.78303 Perplexity: 5.79352
+
+
+RMSProp LearningRate: 1.608600 Decay_Rate: 0.9297 Epoch: 0 BestLoss: 1.49493 Perplexity: 4.35291
+
+
+Adam LearningRate: 1.608600 Beta1: 0.9831 Beta2: 0.9067 Epoch: 0 BestLoss: 1.46422 Perplexity: 4.20913
+
+
+SGD LearningRate: 1.237446 Epoch: 0 BestLoss: 1.85976 Perplexity: 6.24226
+
+
+RMSProp LearningRate: 1.237446 Decay_Rate: 0.9654 Epoch: 0 BestLoss: 1.62540 Perplexity: 4.95555
+
+
+Adam LearningRate: 1.237446 Beta1: 0.8876 Beta2: 0.9934 Epoch: 0 BestLoss: 1.35136 Perplexity: 3.75988
+
+
+SGD LearningRate: 1.967442 Epoch: 0 BestLoss: 1.70806 Perplexity: 5.37336
+
+
+RMSProp LearningRate: 1.967442 Decay_Rate: 0.9874 Epoch: 0 BestLoss: 2.07352 Perplexity: 7.74741
+
+
+Adam LearningRate: 1.967442 Beta1: 0.9940 Beta2: 0.9996 Epoch: 0 BestLoss: 1.64601 Perplexity: 5.04065
+
+
+SGD LearningRate: 3.062155 Epoch: 0 BestLoss: 1.57683 Perplexity: 4.70996
+
+
+RMSProp LearningRate: 3.062155 Decay_Rate: 0.9795 Epoch: 0 BestLoss: 1.36802 Perplexity: 3.81882
+
+
+Adam LearningRate: 3.062155 Beta1: 0.9982 Beta2: 0.9347 Epoch: 0 BestLoss: 1.88108 Perplexity: 6.38202
+
+
+SGD LearningRate: 1.001641 Epoch: 0 BestLoss: 1.91038 Perplexity: 6.57838
+
+
+RMSProp LearningRate: 1.001641 Decay_Rate: 0.9721 Epoch: 0 BestLoss: 1.58764 Perplexity: 4.77023
+
+
+Adam LearningRate: 1.001641 Beta1: 0.9569 Beta2: 0.9580 Epoch: 0 BestLoss: 1.42912 Perplexity: 4.06459
+
+
+SGD LearningRate: 2.969613 Epoch: 0 BestLoss: 1.59543 Perplexity: 4.80027
+
+
+RMSProp LearningRate: 2.969613 Decay_Rate: 0.9726 Epoch: 0 BestLoss: 1.60150 Perplexity: 4.83020
+
+
+Adam LearningRate: 2.969613 Beta1: 0.9974 Beta2: 0.9226 Epoch: 0 BestLoss: 1.78072 Perplexity: 5.77843
+
+
+SGD LearningRate: 3.733539 Epoch: 0 BestLoss: 1.53660 Perplexity: 4.52578
+
+
+RMSProp LearningRate: 3.733539 Decay_Rate: 0.9886 Epoch: 0 BestLoss: 1.59393 Perplexity: 4.78370
+
+
+Adam LearningRate: 3.733539 Beta1: 0.9897 Beta2: 0.9715 Epoch: 0 BestLoss: 1.47737 Perplexity: 4.25424
+
+
